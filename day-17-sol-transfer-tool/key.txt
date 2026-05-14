@@ -1,0 +1,2 @@
+Generated new keypair 
+pubkey: GJZakATrXPJ1FgPoxDU8ZEmXTZxGjat8PHbRA7bUrwQ9
