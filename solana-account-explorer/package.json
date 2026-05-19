@@ -1,0 +1,16 @@
+{
+  "name": "solana-account-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/kit": "^6.9.0"
+  }
+}
